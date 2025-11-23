@@ -1,0 +1,49 @@
+ADHD-Mastery-Path/
+│
+├── 01-Core-Neuroscience/
+│   ├── README.md              # Your Brain is Not Broken: The ADHD Advantage
+│   ├── dopamine-the-engine.md
+│   ├── norepinephrine-the-brake.md
+│   ├── default-mode-vs-task-network.md
+│   └── executive-functions-deconstructed.md
+│
+├── 02-Practical-Toolkit/
+│   ├── 01-Immediate-Action/
+│   │   ├── 5-minute-jumpstart.md
+│   │   └── brain-reset-protocol.md
+│   ├── 02-Task-Management/
+│   │   ├── friction-reduction.md
+│   │   └── motivation-hacking.md
+│   └── 03-Learning-&-Focus/
+│       ├── hyperfocus-triggers.md
+│       └── the-pomodoro-evolution.md
+│
+├── 03-Environmental-Hijacking/
+│   ├── README.md              # Architecting Your World for Success
+│   ├── digital-environment/
+│   │   ├── doom-scrolling-defenses.md
+│   │   └── focus-focused-computing.md
+│   ├── physical-environment/
+│   │   ├── sensory-design.md
+│   │   └── body-doubling-guide.md
+│   └── social-environment/
+│       ├── communication-scripts.md
+│       └── finding-your-tribe.md
+│
+├── 04-Advanced-Applications/
+│   ├── README.md              # From Managing to Mastering
+│   ├── creativity-and-innovation.md
+│   ├── crisis-as-a-catalyst.md
+│   └── long-term-vision-building.md
+│
+├── 05-The-Collective-Brain/
+│   ├── README.md              # The Collaboration Engine
+│   ├── discussions/           # GitHub Discussions tab enabled
+│   ├── contributed-resources/
+│   │   ├ - community-tool-reviews.md
+│   │   └ - personal-success-stories.md
+│   └ - research-paper-deep-dives/
+│
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── README.md
